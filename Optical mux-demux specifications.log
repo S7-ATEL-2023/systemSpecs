@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  20 NOV 2023 17:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.16)  23 NOV 2023 10:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -268,78 +268,73 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 58.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 40.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <11> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 58.
-<jsenga.png, id=1, 377.15906pt x 179.92218pt>
-File: jsenga.png Graphic file (type png)
-<use jsenga.png>
-Package pdftex.def Info: jsenga.png  used on input line 58.
-(pdftex.def)             Requested size: 216.81pt x 103.42699pt.
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 40.
+<mux.png, id=1, 292.6935pt x 142.73325pt>
+File: mux.png Graphic file (type png)
+<use mux.png>
+Package pdftex.def Info: mux.png  used on input line 40.
+(pdftex.def)             Requested size: 180.67499pt x 88.10818pt.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <9> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 58.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 40.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
-File: jsenga.png Graphic file (type png)
-<use jsenga.png>
-Package pdftex.def Info: jsenga.png  used on input line 58.
-(pdftex.def)             Requested size: 216.81pt x 103.42699pt.
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
-Package color Info: Redefining color nblue on input line 58.
-Package color Info: Redefining color mblue on input line 58.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 60.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
+File: mux.png Graphic file (type png)
+<use mux.png>
+Package pdftex.def Info: mux.png  used on input line 40.
+(pdftex.def)             Requested size: 180.67499pt x 88.10818pt.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
+Package color Info: Redefining color nblue on input line 40.
+Package color Info: Redefining color mblue on input line 40.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 42.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-Underfull \hbox (badness 8019) in paragraph at lines 62--71
-\OT1/ptm/m/n/10 Web site at $[]$
+Underfull \hbox (badness 3635) in paragraph at lines 44--54
+[]\OT1/ptm/m/n/10 HIS doc-u-ment de-scribes the spec-i-fi-ca-tions of the
  []
 
 
-Underfull \hbox (badness 6445) in paragraph at lines 62--71
-\OT1/ptm/m/n/10 so you can use it to pre-pare your manuscript. If
+Underfull \hbox (badness 6412) in paragraph at lines 44--54
+\OT1/ptm/m/n/10 telecom-mu-ni-ca-tions will sim-u-late read-ing a pa-per or
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 62--71
-\OT1/ptm/m/n/10 you would pre-fer to use La-TeX, down-load IEEE's
+Underfull \hbox (badness 5022) in paragraph at lines 44--54
+\OT1/ptm/m/n/10 PDF ver-sion of this doc-u-ment, please down-load the
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 62--71
-\OT1/ptm/m/n/10 La-TeX style and sam-ple files from the same Web
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--71
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
 []$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--71
+Underfull \hbox (badness 10000) in paragraph at lines 44--54
 []$
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 62.
 Package epstopdf Info: Source file: <LOGO-jsen-web.eps>
 (epstopdf)                    date: 2019-12-02 10:09:16
 (epstopdf)                    size: 49307 bytes
@@ -347,12 +342,12 @@ Package epstopdf Info: Source file: <LOGO-jsen-web.eps>
 (epstopdf)                    date: 2023-11-17 09:52:27
 (epstopdf)                    size: 8022 bytes
 (epstopdf)             Command: <repstopdf --outfile=LOGO-jsen-web-eps-converted-to.pdf LOGO-jsen-web.eps>
-(epstopdf)             \includegraphics on input line 114.
+(epstopdf)             \includegraphics on input line 116.
 Package epstopdf Info: Output file is already uptodate.
 <LOGO-jsen-web-eps-converted-to.pdf, id=2, 138.5175pt x 33.12375pt>
 File: LOGO-jsen-web-eps-converted-to.pdf Graphic file (type pdf)
 <use LOGO-jsen-web-eps-converted-to.pdf>
-Package pdftex.def Info: LOGO-jsen-web-eps-converted-to.pdf  used on input line 114.
+Package pdftex.def Info: LOGO-jsen-web-eps-converted-to.pdf  used on input line 116.
 (pdftex.def)             Requested size: 85.79993pt x 20.51729pt.
 
 Overfull \hbox (221.20007pt too wide) has occurred while \output is active
@@ -375,63 +370,62 @@ Overfull \vbox (14.8968pt too high) has occurred while \output is active []
  [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
- <./LOGO-jsen-web-eps-converted-to.pdf> <./jsenga.png>]
+ <./LOGO-jsen-web-eps-converted-to.pdf> <./mux.png>]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 133.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 135.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 116.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 118.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 177.
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 160.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 177.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 160.
 LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <9> not available
-(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 178.
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 161.
 
-Overfull \hbox (8.91965pt too wide) in paragraph at lines 174--181
+Overfull \hbox (8.91965pt too wide) in paragraph at lines 157--164
  []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--181
+Underfull \hbox (badness 10000) in paragraph at lines 157--164
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 187.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 170.
 (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 []\OT1/ptm/m/n/10 A gen-eral IEEE styleguide is avail-able at
+ []
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 222.
+\width=\dimen167
+
+Underfull \hbox (badness 2591) in paragraph at lines 267--268
+[]\OT1/ptm/m/n/8 1 erg/(G$\OMS/cmsy/m/n/8 ^^A$\OT1/ptm/m/n/8 g) $\OT1/cmr/m/n/8 =$ \OT1/ptm/m/n/8 1 emu/g $\OMS/cmsy/m/n/8 !$ \OT1/ptm/m/n/8 1
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 241--301
+[][]
  []
 
 
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [2]
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 239.
-\width=\dimen167
-
-Underfull \hbox (badness 2591) in paragraph at lines 284--285
-[]\OT1/ptm/m/n/8 1 erg/(G$\OMS/cmsy/m/n/8 ^^A$\OT1/ptm/m/n/8 g) $\OT1/cmr/m/n/8 =$ \OT1/ptm/m/n/8 1 emu/g $\OMS/cmsy/m/n/8 !$ \OT1/ptm/m/n/8 1
- []
-
-
-Overfull \hbox (5.0pt too wide) in paragraph at lines 258--318
-[][]
- []
-
-
-Underfull \hbox (badness 2941) in paragraph at lines 367--372
+Underfull \hbox (badness 2941) in paragraph at lines 350--355
 \OT1/ptm/m/n/10 (red/green/blue) and CMYK (cyan/magenta/yellow/black).
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 373--378
+Underfull \hbox (badness 2469) in paragraph at lines 356--361
 \OT1/ptm/m/n/10 color space. Grayscale im-ages should be sub-mit-ted in
  []
 
@@ -442,39 +436,39 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [4]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 557.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 540.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 557.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 540.
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--566
+Underfull \hbox (badness 10000) in paragraph at lines 541--549
 []\OT1/ptm/m/n/10 Contributions to the Trans-ac-tions, Jour-nals, and
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 558--566
+Underfull \hbox (badness 1796) in paragraph at lines 541--549
 \OT1/ptm/m/n/10 Let-ters may be sub-mit-ted elec-tron-i-cally on IEEE's on-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--566
+Underfull \hbox (badness 10000) in paragraph at lines 541--549
 \OT1/ptm/m/n/10 line manuscript sub-mis-sion and peer-review sys-tem,
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 558--566
+Underfull \hbox (badness 5832) in paragraph at lines 541--549
 \OT1/ptm/m/n/10 Schol-arOne\TS1/ptm/m/n/10 ® \OT1/ptm/m/n/10 Manuscripts. You can get a list-ing of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--566
+Underfull \hbox (badness 10000) in paragraph at lines 541--549
 \OT1/ptm/m/n/10 the pub-li-ca-tions that par-tic-i-pate in Schol-arOne at
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--566
+Underfull \hbox (badness 10000) in paragraph at lines 541--549
 []$
  []
 
@@ -482,45 +476,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 558--566
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [5]
-Underfull \hbox (badness 1817) in paragraph at lines 684--687
+Underfull \hbox (badness 1817) in paragraph at lines 667--670
 \OT1/ptm/m/n/10 J.K. Au-thor. (year, month). Ti-tle. pre-sented at ab-
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 680--683
+\OT1/ptm/m/n/10 day). Patent Num-ber [Type of medium]. Avail-able:
  []
 
 
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [6]
-Underfull \hbox (badness 1521) in paragraph at lines 697--700
-\OT1/ptm/m/n/10 day). Patent Num-ber [Type of medium]. Avail-able:
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 721--722
+Underfull \hbox (badness 2680) in paragraph at lines 704--705
 []\OT1/ptm/m/n/10 J. K. Au-thor, pri-vate com-mu-ni-ca-tion, Ab-brev.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 772--775
+Underfull \hbox (badness 10000) in paragraph at lines 755--758
 \OT1/ptm/m/n/8 Avail-able: $[]$.
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 787--791
+Underfull \hbox (badness 4254) in paragraph at lines 770--774
 \OT1/ptm/m/n/8 nolo-gies de-ployed be-hind the fire-wall for cor-po-rate pro-duc-tiv-
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 787--791
+Underfull \hbox (badness 3386) in paragraph at lines 770--774
 \OT1/ptm/m/n/8 ity. Pre-sented at INET96 An-nual Meet-ing. [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 4673) in paragraph at lines 794--797
+Underfull \hbox (badness 4673) in paragraph at lines 777--780
 []\OT1/ptm/m/n/8 Teralyzer. Lytera UG, Kirch-hain, Ger-many [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 794--797
+Underfull \hbox (badness 10000) in paragraph at lines 777--780
 []$\OT1/ptm/m/n/8 ,
  []
 
@@ -529,31 +523,33 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [7]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 869.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 852.
 
-Underfull \hbox (badness 1442) in paragraph at lines 876--893
+Underfull \hbox (badness 1442) in paragraph at lines 859--876
 \OT1/phv/m/n/8 de-gree in me-chan-i-cal en-gi-neer-ing from Na-
  []
 
 
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
- [8] (./Optical mux-demux specifications.aux)
+ [8
+
+] (./Optical mux-demux specifications.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4098 strings out of 474266
- 61651 string characters out of 5751449
+ 4091 strings out of 474266
+ 61546 string characters out of 5751449
  1954558 words of memory out of 5000000
- 26216 multiletter control sequences out of 15000+600000
- 642705 words of font info for 169 fonts, out of 8000000 for 9000
+ 26211 multiletter control sequences out of 15000+600000
+ 640166 words of font info for 164 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,19n,72p,695b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,19n,77p,695b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Optical mux-demux specifications.pdf" (8 pages, 365750 bytes).
+Output written on "Optical mux-demux specifications.pdf" (8 pages, 298264 bytes).
 PDF statistics:
  151 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream

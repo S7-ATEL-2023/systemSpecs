@@ -1,9 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1700498172 "c:/Fontys/Atel/systemSpecs/systemSpecs/Optical mux-demux specifications.tex" "Optical mux-demux specifications.pdf" "Optical mux-demux specifications" 1700498174 0
+["pdflatex"] 1700730631 "c:/Fontys/Atel/systemSpecs/systemSpecs/Optical mux-demux specifications.tex" "Optical mux-demux specifications.pdf" "Optical mux-demux specifications" 1700730634 0
   "LOGO-jsen-web.eps" 1575277756 49307 e7082f545ab1d0a8057917736220841d ""
-  "Optical mux-demux specifications.aux" 1700498173 6277 ebc13e9a0151bef2088bca656982f5af "pdflatex"
-  "Optical mux-demux specifications.tex" 1700498169 48727 c2eb26de2577fc262036e380de8eafa8 ""
-  "c:/Fontys/Atel/systemSpecs/systemSpecs/Optical mux-demux specifications.tex" 1700498169 48727 c2eb26de2577fc262036e380de8eafa8 ""
+  "Optical mux-demux specifications.aux" 1700730633 6277 854435961a413165d98b5069af03fe6c "pdflatex"
+  "Optical mux-demux specifications.tex" 1700730630 47565 52a9e08c8046c7cf42519244f4ce0d33 ""
+  "c:/Fontys/Atel/systemSpecs/systemSpecs/Optical mux-demux specifications.tex" 1700730630 47565 52a9e08c8046c7cf42519244f4ce0d33 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1700132074 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1700132673 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1700131682 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -48,7 +48,6 @@
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1700131407 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1700131407 1316 b636689f1933f24d1294acdf6041daaa ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1700131407 1296 d77f431d10d47c8ea2cc18cf45346274 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss9.tfm" 1700131407 1320 49357c421c0d469f88b867dd0c3d10e8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1700131407 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1700131407 1120 8b7d695260f3cff42e636090a8002094 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1700131407 1116 25a7bf822c58caf309a702ef79f4afbb ""
@@ -129,7 +128,7 @@
   "c:/texlive/2023/texmf.cnf" 1700139287 713 e69b156964470283e0530f5060668171 ""
   "ieeecolor.cls" 1575379320 225027 16d157a44b27ab676675957eb7abc811 ""
   "jsen.sty" 1700497618 184 5859ce3475e28a0d87b22ba5a1c76537 ""
-  "jsenga.png" 1576160508 78428 a33d6d224820d01a26c7d7d0012b6434 ""
+  "mux.png" 1700728866 15696 7aee767e73e573df074e19109a9414e7 ""
   (generated)
   "Optical mux-demux specifications.aux"
   "Optical mux-demux specifications.log"
