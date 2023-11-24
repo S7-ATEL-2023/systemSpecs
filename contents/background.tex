@@ -1,9 +1,9 @@
 \section{background}
 \label{sec:background}
 
-The first step in designing a system is to explore what options 
-are available. A few of the main ways of multiplexing are: time-division multiplexing, 
-frequency/wavelength-division multiplexing and spatial multiplexing.
+The first step in designing a system is to explore what methods are currently 
+available. A few of the main ways optical signals are currently multiplexed are: time-division 
+multiplexing, frequency/wavelength-division multiplexing and spatial multiplexing.
 
 \subsection{Time-division multiplexing}
 Time-division multiplexing makes use of specific time-windows in which it sends what data.
@@ -27,9 +27,24 @@ without defects or minimal bends between transmitter and receiver.
 Wavelength-division multiplexing or WDM uses lasers of differing wavelengths between \qty{1270}{\nm} and 
 \qty{1610}{\nm} to send multiple signals at once through an optical cable. If the frequencies are spaced 
 correctly, with some room in between, they should not interfere with eachother. Usually this goes correctly, 
-but since there are no physical or temporal divisions between the signals, this method does have one of the highest
-chances of destructive interference among the previously mentioned methods. If the channel size is large 
-enough, there is no problem. In practice the channel is about \qty{20}{\nm} in the least dense method, but new techniques 
-allow more data to be send on smaller channels. A positive side of this method is that the requirements of the 
-fibre optic are lower than for most spatial multiplexing methods.
+but since there are no physical or temporal divisions between the signals, this method does have one of the 
+highest chances of destructive interference among the previously mentioned methods. If the channel size is large 
+enough, there is no problem. In practice the channel is about \qty{20}{\nm} in the least dense method (CWDM), 
+but other techniques(DWDM) exist which allow more data to be send on smaller channels. A plus side of this method 
+is that the requirements of the fibre optic cable are lower than for most spatial multiplexing methods.
 
+\subsection{Optical Add/Drop Multiplexer}
+A specific device which makes use of the functionalities of WDMs is the Optical Add/Drop Multiplexer(OADM). This 
+device demultiplexes the signal, is able to remove one or more signals, and add some more signals to the stream. 
+At the output of the OADM, the signal is multiplexed again and send on to the next node in the optic fibre cable.
+Dependent on the specific construction of the Multiplexer, either O/E or straight optical, some devices are able 
+to amplify the signal before sending it out again.
+
+\subsection{Attenuation loss}
+As mentioned in the OADM subsection, signals can be amplified by some devices. This is necessarry since the 
+signal can lose its strength. The two main ways signals lose their strength is either loss by absorbtion 
+or loss by scattering. The first loss is caused by the fact that the transport medium, usually a kind of glass, 
+absorbs a part of the light. This kind of loss is usually expressed in dB/km, and preferably is as low as possible, 
+especially for long distance communication. The second kind of loss is caused by bends in the cable. Light waves, 
+prefer to travel in straight lines and when a bend occurs, some of the light will try to still go straight. This 
+causes losses usually expressed in dB loss over a specific bend radius. 
