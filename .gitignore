@@ -3,6 +3,8 @@
 ## To avoid excluding figures, only ignore pdf in root directory
 /*.pdf
 
+*.zip
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
