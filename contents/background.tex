@@ -1,0 +1,35 @@
+\section{background}
+\label{sec:background}
+
+The first step in designing a system is to explore what options 
+are available. A few of the main ways of multiplexing are: time-division multiplexing, 
+frequency/wavelength-division multiplexing and spatial multiplexing.
+
+\subsection{Time-division multiplexing}
+Time-division multiplexing makes use of specific time-windows in which it sends what data.
+An example of this would be that the multiplexer sends data from one source for \qty{1}{\ms}, 
+after which it sends the data from the next source for \qty{1}{\ms} and so on, untill it comes 
+back to the data from the first source and it keeps repeating this cycle. Possible downsides of
+this method are that both sides need synchronized clocks to acknowledgde when the data from 
+each source is sent and the possibility of requiring a larger cache to store the data waiting 
+for its timeslot to be sent
+
+\subsection{Spatial multiplexing}
+Spatial multiplexing keeps the data from each source physically separate from other data sent 
+at the same time. Ways of achieving for optical communication include multifibre cables, 
+multi-modal fibres and waveguides. Downsides of this technique mostly come down to high requirements 
+for the transmitters, receivers and fibres themselves. Where time-division multiplexing is able to be 
+sent through almost any optical fibre cable, spatial multiplexed signals set strict requirements, like 
+multi-core cables which are thicker, special and experimental crystals at the transmitter, or optical cables 
+without defects or minimal bends between transmitter and receiver.
+
+\subsection{Wavelength-division multiplexing}
+Wavelength-division multiplexing or WDM uses lasers of differing wavelengths between \qty{1270}{\nm} and 
+\qty{1610}{\nm} to send multiple signals at once through an optical cable. If the frequencies are spaced 
+correctly, with some room in between, they should not interfere with eachother. Usually this goes correctly, 
+but since there are no physical or temporal divisions between the signals, this method does have one of the highest
+chances of destructive interference among the previously mentioned methods. If the channel size is large 
+enough, there is no problem. In practice the channel is about \qty{20}{\nm} in the least dense method, but new techniques 
+allow more data to be send on smaller channels. A positive side of this method is that the requirements of the 
+fibre optic are lower than for most spatial multiplexing methods.
+
