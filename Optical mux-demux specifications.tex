@@ -1,12 +1,13 @@
 \documentclass[journal,twoside,web]{IEEEtran}
 \usepackage{jsen}
-\usepackage{cite}
 \usepackage{amsmath,amssymb,amsfonts}
 \usepackage{algorithmic}
 \usepackage{graphicx}
 \usepackage{textcomp}
 \usepackage{wrapfig}
 \usepackage{siunitx}
+\usepackage{multicol}
+\usepackage{biblatex}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \markboth{\journalname, Advance telecommunication design specification 2023}
@@ -14,6 +15,7 @@
 \definecolor{abstractbg}{rgb}{0.89804,0.94510,0.83137}
 \setlength{\fboxrule}{0pt}
 \setlength{\fboxsep}{0pt}
+\addbibresource{s7_advanced_telecom.bib} % Import bibliography file
 \begin{document}
 \title{Optical multiplexer/demultiplexer specification document (November 2023)}
 \author{Daniël van Langeveld, \IEEEmembership{3875393}, Fer Clerkx, \IEEEmembership{4331052} (Group 6)
@@ -46,6 +48,8 @@ Demultiplexer, Fontys, Multiplexer, Optical signal
 \input{contents/introduction.tex}
 \input{contents/background.tex}
 \input{contents/specifications.tex}
+
+\printbibliography
 
 \appendices
 
