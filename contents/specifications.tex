@@ -8,24 +8,24 @@ This chapter lays out the specification used to design the wavelength division m
 	\begin{tabular} {|l|c|}
 		\hline
 		\multicolumn{1}{|c|}{\textbf{Parameter}} & \textbf{Unit} \\ \hline\hline
-		Operating Wavelength & \unit{\nm} \\ \hline
-		Channel Spacing & \unit{\GHz} \\ \hline
+		% Operating Wavelength & \unit{\nm} \\ \hline
+		% Channel Spacing & \unit{\GHz} \\ \hline
 		% Upgrade Port Wavelength Range (Option) & \unit{\nm} \\ \hline
 		% Express Port Wavelength Range (Option) & \unit{\nm} \\ \hline
-		Pass Bandwidth & \unit{\nm} \\ \hline
-		Center Wavelength & \unit{\nm} \\ \hline
-		CWDM Port Insertion Loss & \unit{\dB} \\ \hline
+		% Pass Bandwidth & \unit{\nm} \\ \hline
+		% Center Wavelength & \unit{\nm} \\ \hline
+		% CWDM Port Insertion Loss & \unit{\dB} \\ \hline
 		Passband WDL & \unit{\dB} \\ \hline
 		% Express Port Wavelength (option) & \unit{\dB} \\ \hline
 		% Upgrade Port Insertion Loss (option) & \unit{\dB} \\ \hline
-		Adjacent Channel Isolation & \unit{\dB} \\ \hline
-		Non-Adjacent Channel Isolation & \unit{\dB} \\ \hline
+		% Adjacent Channel Isolation & \unit{\dB} \\ \hline
+		% Non-Adjacent Channel Isolation & \unit{\dB} \\ \hline
 		% Upgrade Port Isolation & \\ \hline
 		% Express port isolation & \\ \hline
 		Polarization Dependent Loss & \unit{\dB} \\ \hline
-		Optical Return Loss & \unit{\dB} \\ \hline
+		% Optical Return Loss & \unit{\dB} \\ \hline
 		Directivity & \unit{\dB} \\ \hline
-		Optical Power Handling & \unit{\mW} \\ \hline
+		% Optical Power Handling & \unit{\mW} \\ \hline
 		Operating Temperature Range & \unit{\degreeCelsius} \\ \hline
 		Storage Temperature Range & \unit{\degreeCelsius} \\ \hline
 		Fiber Type & - \\ \hline
@@ -44,17 +44,17 @@ This chapter lays out the specification used to design the wavelength division m
 	\begin{tabular} {|l|c|}
 		\hline
 		\multicolumn{1}{|c|}{\textbf{Parameter}} & \textbf{Unit} \\ \hline\hline
-		Center Wavelength & \unit{\nm} \\ \hline
-		Channel Spacing & \unit{\nm} \\ \hline
-		Channel Passband & \unit{\nm} \\ \hline
-		Insertion Loss (Passband) & \unit{\dB} \\ \hline
+		% Center Wavelength & \unit{\nm} \\ \hline
+		% Channel Spacing & \unit{\nm} \\ \hline
+		% Channel Passband & \unit{\nm} \\ \hline
+		% Insertion Loss (Passband) & \unit{\dB} \\ \hline
 		Technology & - \\ \hline
 		Passband Ripple & \unit{\dB} \\ \hline
 		Directivity & \unit{\dB} \\ \hline
-		Return Loss & \unit{\dB} \\ \hline
+		% Return Loss & \unit{\dB} \\ \hline
 		PDL & \unit{\dB} \\ \hline
 		PMD & \unit{\ps} \\ \hline
-		Power Handling & \unit{\mW} \\ \hline
+		% Power Handling & \unit{\mW} \\ \hline
 		Operating Temperature & \unit{\degreeCelsius} \\ \hline
 		Storage Temperature & \unit{\degreeCelsius} \\ \hline
 		Connector Type & - \\ \hline
@@ -70,16 +70,16 @@ This chapter lays out the specification used to design the wavelength division m
 	\begin{tabular} {|l|c|}
 		\hline
 		\multicolumn{1}{|c|}{\textbf{Parameter}} & \textbf{Unit} \\ \hline\hline
-		Channel center wavelength & \unit{\nm} \\ \hline
-		Channel spacing & \unit{\nm} \\ \hline
-		Maximum input optical power & \unit{\mW} \\ \hline
-		Insertion Loss & \unit{\dB} \\ \hline
-		Drop adjacent channel isolation & \unit{\dB} \\ \hline
-		Drop nonadjacent channel isolation & \unit{\dB} \\ \hline
-		Add adjacent channel isolation & \unit{\dB} \\ \hline
-		Add nonadjacent channel isolation & \unit{\dB} \\ \hline
+		% Channel center wavelength & \unit{\nm} \\ \hline
+		% Channel spacing & \unit{\nm} \\ \hline
+		% Maximum input optical power & \unit{\mW} \\ \hline
+		% Insertion Loss & \unit{\dB} \\ \hline
+		% Drop adjacent channel isolation & \unit{\dB} \\ \hline
+		% Drop nonadjacent channel isolation & \unit{\dB} \\ \hline
+		% Add adjacent channel isolation & \unit{\dB} \\ \hline
+		% Add nonadjacent channel isolation & \unit{\dB} \\ \hline
 		Add CrossTalk & \unit{\dB} \\ \hline
-		Return Loss & \unit{\dB} \\ \hline
+		% Return Loss & \unit{\dB} \\ \hline
 		Monitor add/drop loss & \unit{\dB} \\ \hline
 		Filter type & - \\ \hline
 		Polarization dependent loss (PDL) & \unit{\dB} \\ \hline
@@ -100,6 +100,40 @@ This chapter lays out the specification used to design the wavelength division m
 	\label{table:specs3}
 \end{table}
 
+\begin{table}[!ht]
+	\centering
+	\begin{tabular}{|l|c|c|}
+		\hline
+		\multicolumn{1}{|c|}{\textbf{Parameter}} & \textbf{Value} & \textbf{Unit} \\ \hline
+		Operating Wavelength & ITU-T G.694.2\cite{noauthor_g6942_2003} & \unit{\nm} \\ \hline
+		Channel Center Wavelength & ITU-T G.694.2\cite{noauthor_g6942_2003} & \unit{\nm} \\ \hline
+		Channel Spacing & 20\cite{noauthor_g6942_2003} & \unit{\nm} \\ \hline
+		Channel Passband & \numrange[range-phrase=-]{\pm 6}{7}\cite{noauthor_g6942_2003} & \unit{\nm} \\ \hline
+		Insertion Loss & TBD & \unit{\dB} \\ \hline
+		Add Adjacent Channel Isolation & TBD & \unit{\dB} \\ \hline
+		Add Non-Adjacent Channel Isolation & TBD & \unit{\dB} \\ \hline
+		Drop Adjacent Channel Isolation & TBD & \unit{\dB} \\ \hline
+		Drop Non-Adjacent Channel Isolation & TBD & \unit{\dB} \\ \hline
+		Optical Power Handling & TBD & \unit{\mW} \\ \hline
+		Return Loss & TBD & \unit{\dB} \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsection{Parameter definitions}
+
+\begin{itemize}
+	\item \textbf{Operating Wavelength}: Range of wavelengths used by the CWDM.
+	\item \textbf{Channel Center Wavelength}: Set of channel wavelengths used by the CWDM.
+	\item \textbf{Channel Spacing}: Wavelength difference between adjacent channels.
+	\item \textbf{Channel Passband}: Maximum channel wavelength deviation.
+	\item \textbf{Insertion Loss}: The amount of power lost in the device or at the interfaces.
+	\item \textbf{Add}: Terminology for multiplexing\cite{noauthor_glossary_2015}.
+	\item \textbf{Drop}: Terminology for de-multiplexing\cite{noauthor_glossary_2015}.
+	\item \textbf{Adjacent Channel Isolation}: For any given channel, it is the difference between the maximum loss within the channels passband and the minimum loss within an adjacent channels passband\cite{noauthor_glossary_2015}.
+	\item \textbf{Non-Adjacent Channel Isolation}: For any given channel, it is the difference between the maximum loss within the channels passband and the minimum loss within any other channels passband\cite{noauthor_glossary_2015}.
+	\item \textbf{Optical Power Handling}: Maximum optical power at fiber inputs.
+	\item \textbf{Return Loss}: The ratio of incident optical power vs reflected optical power for any given optical interface. Higher return loss leads to less signal loss and less power reflected to the source\cite{noauthor_glossary_2015}.
+\end{itemize}
 % \begin{itemize}
 %  \item The inputs and outputs of the system are optical.
 %  \item The signals will not be converted to the electrical domain at any stage (no O/E/O). 
